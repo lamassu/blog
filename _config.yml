@@ -5,8 +5,8 @@
 # If you change this file, please restart the server process.
 
 # Site settings
-title:              Étoile
-description:        Magazine Jekyll theme for writers and bloggers.
+title:              The Lamassu Blog
+description:        Ramblings from the creators of the Bitcoin ATM
 url:                # Site base hostname & protocol, e.g. http://example.com
 baseurl:            "" # Site subpath, e.g. /blog
 logo_image:
@@ -21,7 +21,7 @@ google_analytics:   # Google analytics code, get your code here https://www.goog
 disqus:
   shortname:        # Disqus comments shortname, requires Disqus account https://disqus.com/
 
-instagram_accesstoken: 9787042989.1677ed0.1dd0f134cfe84e1d88a05b9afbedec3c
+instagram_accesstoken:
 
 footer:             # Default footer image settings
   copyright:        Made by a <a href="https://ivanchromjak.com/">human</a> somewhere on the planet earth.
@@ -42,19 +42,19 @@ social_share:
 
 # Social networks
 social_networks:
-  email:          
-  website:        
+  email:
+  website:
   facebook:         https://www.facebook.com/
-  flickr:         
-  dribbble:       
-  github:         
-  reddit:         
+  flickr:
+  dribbble:
+  github:
+  reddit:
   instagram:        https://www.instagram.com/
-  linkedin:       
-  pinterest:      
+  linkedin:
+  pinterest:
   twitter:          https://twitter.com/
-  vimeo:          
-  youtube:          https://www.youtube.com/    
+  vimeo:
+  youtube:          https://www.youtube.com/
 
 # Strings
 strings:
