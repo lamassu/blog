@@ -78,8 +78,9 @@ exclude:
   - package.json
   - CHANGELOG
   - LICENSE
-  - README
+  - README.md
   - /docs
+  - vendor
 
 sass:
   style:            compressed
